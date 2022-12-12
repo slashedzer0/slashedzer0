@@ -18,7 +18,7 @@
 
 <p align="center">
 <samp>
-As the passionate student, I always eager to learn and explore new technologies, especially in the fields of Linux, web development, and open source projects. I constantly seeking out new challenges and opportunities to grow and develop my skills and dedicated to making valuable contributions to the tech community.
+I always eager to learn and explore new technologies, especially in the fields of Linux, web development, and open source projects. I constantly seeking out new challenges and opportunities to grow and develop my skills and dedicated to making valuable contributions to the tech community.
 </samp>
 </p>
 
