@@ -18,7 +18,7 @@
 
 <p align="center">
 <samp>
-As the passionate student, I always eager to learn and explore new technologies, especially in the fields of Linux, web development, and open source projects. I constantly seeking out new challenges and opportunities to grow and develop my skills and dedicated to making valuable contributions to the tech community. I am excited to see what the future holds and I am determined to make a lasting impact in the world of technology.
+As the passionate student, I always eager to learn and explore new technologies, especially in the fields of Linux, web development, and open source projects. I constantly seeking out new challenges and opportunities to grow and develop my skills and dedicated to making valuable contributions to the tech community.
 </samp>
 </p>
 
@@ -33,10 +33,10 @@ As the passionate student, I always eager to learn and explore new technologies,
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  />
+  <img src="https://img.shields.io/badge/Python-E0EFEF?style=for-the-badge&logo=python&logoColor=blue"  />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"  />
+  <img src="https://img.shields.io/badge/MariaDB-00758F?style=for-the-badge&logo=mariadb&logoColor=white"  />
 </div>
 
 ###
