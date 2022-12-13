@@ -59,7 +59,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  />
-  <img src="https://img.shields.io/badge/Python-E0EFEF?style=for-the-badge&logo=python&logoColor=blue"  />
+  <img src="https://img.shields.io/badge/Git-1a1a1a?logo=git&logoColor=E34F26&style=for-the-badge" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Python-e1e8e9?logo=python&logoColor=&style=for-the-badge" alt="Python Badge">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  />
   <img src="https://img.shields.io/badge/MariaDB-00758F?style=for-the-badge&logo=mariadb&logoColor=white"  />
