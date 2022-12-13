@@ -48,7 +48,7 @@ I always eager to learn and explore new technologies, especially in the fields o
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue-dark&card_width=410&show_icons=true&hide_border=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue-dark&card_width=415&show_icons=true&hide_border=true&hide_title=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=slashedzer0&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
 </div>
 
