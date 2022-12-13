@@ -48,8 +48,8 @@ I always eager to learn and explore new technologies, especially in the fields o
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=slashedzer0" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&username=slashedzer0" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue-dark&card_width=410&show_icons=true&hide_border=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slashedzer0&layout=compact&theme=vue-dark&card_width=310&hide_border=true" height="150" />
 </div>
 
 ###
