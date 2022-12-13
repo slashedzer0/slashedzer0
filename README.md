@@ -1,5 +1,5 @@
-<h2 align="center"> Hi!
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> 
+<h2 align="center"> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi!
 </2> 
 
 ###
@@ -10,22 +10,48 @@
 
 ###
 
-<h2 align="center"> About Me
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> 
+<h2 align="center"> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> Contacts
+</2> 
+
+###
+
+<div align="center">
+  <a href="mailto:doniwicaksonox@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://discordapp.com/users/909294977698369557">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  
+  <a href="mailto:doniwicaksono@proton.me">
+    <img src="https://img.shields.io/badge/Proton-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
+  
+  <a href="https://t.me/slashedzer0">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <a/>
+</div>
+
+###
+
+<h2 align="center"> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> About Me
 </h2>
 
 ###
 
 <p align="center">
-<samp>
-I always eager to learn and explore new technologies, especially in the fields of Linux, web development, and open source projects. I constantly seeking out new challenges and opportunities to grow and develop my skills and dedicated to making valuable contributions to the tech community.
-</samp>
+  <samp>
+    I always eager to learn and explore new technologies, especially in the fields of Linux, web development, and open source projects. I constantly seeking out new challenges and opportunities to grow and develop my skills and dedicated to making valuable contributions to the tech community.
+  </samp>
 </p>
 
 ###
 
-<h2 align="center"> Tech Stack
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+<h2 align="center"> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Stack
 </h2>
 
 ###
@@ -41,8 +67,8 @@ I always eager to learn and explore new technologies, especially in the fields o
 
 ###
 
-<h2 align="center">My Stats
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="25" height="25" />
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="25" height="25" /> My Stats
 </h2>
 
 ###
@@ -51,5 +77,3 @@ I always eager to learn and explore new technologies, especially in the fields o
   <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue-dark&card_width=420&show_icons=true&hide_border=true&hide_title=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=slashedzer0&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
 </div>
-
-###
