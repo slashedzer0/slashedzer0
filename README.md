@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Proton-a793ff?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>
   
-  <a href="https://sptfy.com/slashedzer0">
+  <a href="https://open.spotify.com/user/ae1wyum3y57zrnujm977tn1nq?si=aDhopdbSSwSF54lW-SLVAg&utm_source=copy-link">
     <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge">
   </a>
   
