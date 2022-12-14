@@ -52,7 +52,7 @@
 
 <p align="center">
   <samp>
-    I am a Software Engineering student who pasionate about Linux, web development, and open source projects.
+    I am a Software Engineering student who is passionate about Linux, web development, and open-source projects.
   </samp>
 </p>
 
