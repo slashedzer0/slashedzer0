@@ -11,12 +11,16 @@
 ###
 
 <h2 align="center"> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> Contacts
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> Links
 </2> 
 
 ###
 
 <div align="center">
+  <a href="https://anilist.co/user/slashedzer0/">
+    <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=for-the-badge">
+  </a>
+
   <a href="mailto:doniwicaksonox@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -26,7 +30,11 @@
   </a>
   
   <a href="mailto:doniwicaksono@proton.me">
-    <img src="https://img.shields.io/badge/Proton-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Proton-a793ff?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
+  
+  <a href="https://sptfy.com/slashedzer0">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge">
   </a>
   
   <a href="https://t.me/slashedzer0">
@@ -59,7 +67,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  />
-  <img src="https://img.shields.io/badge/Git-1a1a1a?logo=git&logoColor=E34F26&style=for-the-badge" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Git-413d3c?logo=git&logoColor=E34F26&style=for-the-badge" alt="Git Badge">
   <img src="https://img.shields.io/badge/Python-e1e8e9?logo=python&logoColor=&style=for-the-badge" alt="Python Badge">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  />
