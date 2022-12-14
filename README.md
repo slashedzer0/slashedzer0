@@ -52,7 +52,7 @@
 
 <p align="center">
   <samp>
-    I eager to learn and explore new technologies, especially in the fields of Linux, web development, and open source projects.
+    I am a Software Engineering student who pasionate about Linux, web development, and open source projects.
   </samp>
 </p>
 
