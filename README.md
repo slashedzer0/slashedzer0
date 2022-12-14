@@ -17,10 +17,6 @@
 ###
 
 <div align="center">
-  <a href="https://anilist.co/user/slashedzer0/">
-    <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=for-the-badge">
-  </a>
-
   <a href="mailto:doniwicaksonox@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -31,6 +27,10 @@
   
   <a href="mailto:doniwicaksono@proton.me">
     <img src="https://img.shields.io/badge/Proton-a793ff?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
+  
+  <a href="https://anilist.co/user/slashedzer0/">
+    <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=for-the-badge">
   </a>
   
   <a href="https://open.spotify.com/user/ae1wyum3y57zrnujm977tn1nq?si=aDhopdbSSwSF54lW-SLVAg&utm_source=copy-link">
