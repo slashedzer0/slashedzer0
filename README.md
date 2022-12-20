@@ -72,16 +72,3 @@
   <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  />
   <img src="https://custom-icon-badges.demolab.com/badge/SQL-003B57.svg?style=for-the-badge&logo=database&logoColor=white"  />
 </div>
-
-###
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="25" height="25" /> My Stats
-</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&theme=gotham&card_width=420&show_icons=true&hide_border=true&hide_title=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=slashedzer0&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
-</div>
