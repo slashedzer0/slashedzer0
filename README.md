@@ -82,7 +82,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&theme=gotham&card_width=420&show_icons=true&hide_border=true&hide_title=true&include_all_commits=false&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=slashedzer0&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue&card_width=420&show_icons=true&hide_border=true&hide_title=true&include_all_commits=false&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=slashedzer0&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
 </div>
   
