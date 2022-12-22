@@ -61,16 +61,16 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  />
-  <img src="https://img.shields.io/badge/IDEA-1a1a1a?logo=intellijidea&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-181926?logo=git&logoColor=F05032&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IDEA-171717?logo=intellijidea&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-171717?logo=git&logoColor=F05032&style=for-the-badge" />
 </div>
   
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-e1e8e9.svg?style=for-the-badge&logo=java-bold&logoColor=" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-E0144C.svg?style=for-the-badge&logo=java-bold&logoColor=white" />
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
   <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  />
-  <img src="https://custom-icon-badges.demolab.com/badge/SQL-003B57.svg?style=for-the-badge&logo=database&logoColor=white"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-0a546f.svg?style=for-the-badge&logo=database&logoColor=white" />
 </div>
 
 ###
