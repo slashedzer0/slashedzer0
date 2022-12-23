@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  />
   <img src="https://img.shields.io/badge/IDEA-171717?logo=intellijidea&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-efefe7?logo=git&logoColor=F05032&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-E3E3E3?logo=git&logoColor=F05032&style=for-the-badge" />
 </div>
   
 <div align="center">
