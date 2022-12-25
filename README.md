@@ -1,4 +1,4 @@
-<h3 align="center"> 
+<h2 align="center"> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi!
 </2> 
 
@@ -38,9 +38,9 @@
 
 ###
 
-<h3 align="center">
+<h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> About Me
-</h3>
+</h2>
 
 ###
 
@@ -52,9 +52,9 @@
 
 ###
 
-<h3 align="center"> 
+<h2 align="center"> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Stack
-</h3>
+</h2>
 
 ###
   
@@ -75,9 +75,9 @@
 
 ###
 
-<h3 align="center">
+<h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="25" height="25" /> My Stats
-</h3>
+</h2>
 
 ###
 
