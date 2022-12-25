@@ -46,7 +46,7 @@
 
 <p align="center">
   <samp>
-    I am a Software Engineering student who is passionate about Linux, web development, and open-source projects.
+    Aspiring software engineer with a focus on Linux and web development. Experienced in the Linux environment and comfortable with Python. Always looking to learn and grow as a developer, and excited to contribute to the open-source community.
   </samp>
 </p>
 
