@@ -1,14 +1,12 @@
 <h2 align="center"> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi!
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I'm Doni!
 </2> 
 
 ###
 
 <div align="center">
-  <img src="https://github.com/slashedzer0/slashedzer0/blob/main/github-header-image.png"  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=89DDFF&center=true&width=600&lines=Software+Engineering+student;Linux+and+web+development+enthusiast;Driven+to+use+technology+to+make+a+difference;Continuously+learning+and+growing+as+a+developer" alt="Typing SVG" /></a>
 </div>
-
-###
 
 <div align="center">
   <a href="mailto:doniwicaksonox@gmail.com">
@@ -82,7 +80,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue-dark&card_width=420&show_icons=true&hide_border=true&hide_title=true&include_all_commits=false&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=slashedzer0&theme=vue-dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&theme=material-palenight&card_width=420&show_icons=true&hide_border=true&hide_title=true&include_all_commits=false&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=slashedzer0&theme=material-palenight&hide_border=true" height="150" />
 </div>
   
