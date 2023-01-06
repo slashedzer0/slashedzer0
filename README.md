@@ -1,19 +1,14 @@
-<h2 align="center"> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I'm Doni!
-</2> 
+<h3 align="center">
+	<img src="https://media0.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=790b7611bee372f799d3e654891002c36d77380c48c466d2&rid=giphy.gif&ct=s" width="300" /><br/>
+</h3>
 
-###
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8bd5ca&center=true&width=600&lines=Software+Engineering+student;Linux+and+web+development+enthusiast;Driven+to+use+technology+to+make+a+difference;Continuously+learning+and+growing+as+a+developer" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8bd5ca&center=true&width=600&lines=Software+Engineering+student;Linux+and+web+development+enthusiast;Driven+to+use+technology+to+make+a+difference;Continuously+learning+and+growing+as+a+developer" />
 </div>
 
 <div align="center">
   <a href="mailto:doniwicaksonox@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="mailto:doniwicaksono@proton.me">
-    <img src="https://img.shields.io/badge/Proton-a793ff?style=flat&logo=protonmail&logoColor=white">
   </a>
   
   <a href="https://discordapp.com/users/909294977698369557">
@@ -43,7 +38,7 @@
 
 <p align="center">
   <samp>
-    Aspiring software engineer with a focus on Linux and web development. Experienced in the Linux environment and comfortable with Python. Always looking to learn and grow as a developer, and excited to contribute to the open-source community.
+    Aspiring software engineer with experience in Linux environment. Currently focusing on web development and interested in learning about Web3 technologies. Enjoys watching anime and reading manga in free time. Seeking to improve skills and contribute to open source community.
   </samp>
 </p>
 
