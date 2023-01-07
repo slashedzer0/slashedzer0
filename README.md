@@ -22,9 +22,9 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </div>
 
-<h2 align="center">
+<h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> About Me
-</h2>
+</h3>
 
 <p align="center">
   <samp>
@@ -33,9 +33,9 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </p>
 
-<h2 align="center"> 
+<h3 align="center"> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Stack
-</h2>
+</h3>
   
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-24273a?style=for-the-badge&logo=linux&logoColor=FCC624"  />
@@ -53,12 +53,18 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </div>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="25" height="25" /> My Stats
-</h2>
+<div align="center">
+  <details>
+    <summary>
+      <h3 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="25" height="25" /> My Stats
+     </h3>
+    </summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&card_width=420&show_icons=true&hide_border=true&hide_title=true&include_all_commits=false&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=slashedzer0&background=24273a&stroke=cad3f5&ring=8bd5ca&fire=8bd5ca&currStreakNum=c6a0f6&sideNums=8bd5ca&currStreakLabel=c6a0f6&sideLabels=8bd5ca&dates=cad3f5&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&card_width=420&show_icons=true&hide_border=true&hide_title=true&include_all_commits=false&count_private=true" height="150" />
+    <img src="https://streak-stats.demolab.com?user=slashedzer0&background=24273a&stroke=cad3f5&ring=8bd5ca&fire=8bd5ca&currStreakNum=c6a0f6&sideNums=8bd5ca&currStreakLabel=c6a0f6&sideLabels=8bd5ca&dates=cad3f5&hide_border=true" height="150" />
 </div>
 	
+  </details>
+</div>
