@@ -56,6 +56,6 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&card_width=420&show_icons=true&hide_border=true&hide_title=true&include_all_commits=false&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=slashedzer0&background=24273a&stroke=cad3f5&ring=8bd5ca&fire=8bd5ca&currStreakNum=c6a0f6&sideNums=8bd5ca&currStreakLabel=c6a0f6&sideLabels=8bd5ca&dates=cad3f5&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=slashedzer0&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&card_width=420&show_icons=true&hide_border=true&hide_title=true&include_all_commits=false&count_private=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=slashedzer0&hide_border=true&background=24273a&stroke=cad3f5&ring=8bd5ca&fire=8bd5ca&currStreakNum=c6a0f6&sideNums=8bd5ca&currStreakLabel=c6a0f6&sideLabels=8bd5ca&dates=cad3f5" height="150" />
 </div>
