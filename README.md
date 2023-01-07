@@ -28,7 +28,7 @@
 
 <p align="center">
   <samp>
-    Aspiring software engineer with experience in Linux environment. Currently focusing on web development and interested in learning about Web3 technologies. Enjoys watching anime and reading manga in free time. Seeking to improve skills and contribute to open source community.
+    Aspiring software engineer with a focus on Linux and web development. Enjoys watching anime and reading manga in free time.<br/>Seeking to improve skills and contribute to open source community.
   </samp><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </p>
@@ -41,10 +41,8 @@
   <img src="https://img.shields.io/badge/Linux-24273a?style=for-the-badge&logo=linux&logoColor=FCC624"  />
   <img src="https://img.shields.io/badge/VS%20Code-24273a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"  />
   <img src="https://img.shields.io/badge/IDEA-24273a?logo=intellijidea&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-24273a?logo=git&logoColor=F05032&style=for-the-badge" />
-</div>
-  
-<div align="center">
+  <img src="https://img.shields.io/badge/Git-24273a?logo=git&logoColor=F05032&style=for-the-badge" /><br/>
+	
   <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=3776AB" />
   <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C" />
   <img src="https://img.shields.io/badge/html-%2324273a.svg?style=for-the-badge&logo=html5&logoColor=E34F26"  />
