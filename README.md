@@ -28,7 +28,7 @@
 
 <p align="center">
   <samp>
-    Aspiring software engineer with a focus on Linux and web development. Enjoys watching anime and reading manga in free time.<br/>Seeking to improve skills and contribute to open source community.
+    Aspiring software engineer with a focus on Linux and web development. Enjoys watching anime and reading manga in free time. Seeking to improve skills and contribute to open source community.
   </samp><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </p>
