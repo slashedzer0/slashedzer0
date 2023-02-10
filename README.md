@@ -1,6 +1,6 @@
 <h3 align="center">
 	<img src="https://media0.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=790b7611bee372f799d3e654891002c36d77380c48c466d2&rid=giphy.gif&ct=s" width="300" /><br/>
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1240&pause=2800&color=8bd5ca&center=true&width=600&lines=Software+Engineering+student;Linux+and+web+development+enthusiast;Driven+to+use+technology+to+make+a+difference;Continuously+learning+and+growing+as+a+developer"
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1240&pause=2800&color=8bd5ca&center=true&width=600&lines=Software+Engineering+student;Passionate+about+Linux+and+Web+development;Continuously+learning+and+growing+as+a+developer"
 </h3>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 <p align="center">
   <samp>
-    Aspiring software engineer with a focus on Linux and web development. Enjoys watching anime and reading manga in free time. Seeking to improve skills and contribute to open source community.
+    Aspiring software engineer with a focus on Linux and Web development. Enjoys watching anime and reading manga in free time. Seeking to improve skills and contribute to open source community.
   </samp><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </p>
