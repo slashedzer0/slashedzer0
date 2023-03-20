@@ -16,13 +16,14 @@
   
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-24273a?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/WSL-24273a?logo=windows&logoColor=fff&style=for-the-badge"/>
+  <!-- <img src="https://img.shields.io/badge/WSL-24273a?logo=windows&logoColor=fff&style=for-the-badge"/> -->
   <img src="https://img.shields.io/badge/VS%20Code-24273a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
   <img src="https://img.shields.io/badge/IDEA-24273a?logo=intellijidea&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-24273a?logo=git&logoColor=F05032&style=for-the-badge"/> <br/>
 	
   <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=3776AB"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C"/>
+  <!--  <img src="https://img.shields.io/badge/JavaScript-24273a?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/> -->
   <img src="https://img.shields.io/badge/html-%2324273a.svg?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/css-%2324273a.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img src="https://custom-icon-badges.demolab.com/badge/SQL-24273a.svg?style=for-the-badge&logo=database&logoColor=fea314"/>
@@ -41,7 +42,7 @@
 
 	
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" height="2px" width="762px" /> <br> <br/>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" height="3px" width="762px" /> <br> <br/>
 	
   <a href="mailto:doniwicaksonox@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
