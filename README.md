@@ -5,13 +5,13 @@
     <img src="https://img.shields.io/endpoint?label=profile%20views&style=social&url=https%3A%2F%2Fhits.dwyl.com%2Fslashedzer0%2Fslashedzer0.json" alt="calculation based on page hits, not 100% accurate." />
   </a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="2" width="2px" />
-  <a href="https://wakatime.com/@doniwicaksono">
+  <a href="https://wakatime.com/@doniwicaksono" target="_blank">
     <img src="https://wakatime-hours-psi.vercel.app/api/badge?style=social&label=code+time" alt="time spent on coding since december 2022." />
   </a>
 </h3> <br/>
 
 <h3 align="center"> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Tech Stack
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" height="20" /> Tech Stack
 </h3>
   
 <div align="center">
@@ -32,7 +32,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="20" height="20" /> My Stats
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="20" height="20" /> My Stats
 </h3>
 
 <div align="center">
@@ -40,23 +40,22 @@
   <img src="https://streak-stats.demolab.com?user=slashedzer0&hide_border=true&background=24273a&stroke=cad3f5&ring=8bd5ca&fire=8bd5ca&currStreakNum=c6a0f6&sideNums=8bd5ca&currStreakLabel=c6a0f6&sideLabels=8bd5ca&dates=cad3f5" height="150" /> <br/>
 </div>
 
-	
 <div align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" height="3px" width="762px" /> <br> <br/>
 	
   <a href="mailto:doniwicaksonox@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://discordapp.com/users/909294977698369557">
+  <a href="https://discordapp.com/users/909294977698369557" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://t.me/slashedzer0">
+  <a href="https://t.me/slashedzer0" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
   <a/>
-  <a href="https://anilist.co/user/slashedzer0/">
-    <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat/">
+  <a href="https://anilist.co/user/slashedzer0/" target="_blank">
+    <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat/"/>
   </a>
-  <a href="https://open.spotify.com/user/ae1wyum3y57zrnujm977tn1nq?si=aDhopdbSSwSF54lW-SLVAg">
+  <a href="https://open.spotify.com/user/ae1wyum3y57zrnujm977tn1nq?si=aDhopdbSSwSF54lW-SLVAg" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat"/>
   </a> </br>
 </div>
