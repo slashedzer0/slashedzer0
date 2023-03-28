@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Linux-24273a?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <!-- <img src="https://img.shields.io/badge/WSL-24273a?logo=windows&logoColor=fff&style=for-the-badge"/> -->
   <img src="https://img.shields.io/badge/VS%20Code-24273a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
-  <img src="https://img.shields.io/badge/IntelliJ-24273a?logo=intellijidea&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IDEA-24273a?logo=intellijidea&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-24273a?logo=git&logoColor=F05032&style=for-the-badge"/> <br/>
 	
   <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=3776AB"/>
