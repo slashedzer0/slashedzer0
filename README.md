@@ -11,7 +11,7 @@
 </h3> <br/>
 
 <h3 align="center"> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" height="20" /> Tech Stack
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" height="20" /> Tech & Tools
 </h3>
   
 <div align="center">
