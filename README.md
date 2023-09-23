@@ -1,10 +1,11 @@
 <h3 align="center">
-  <img src="https://media0.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=790b7611bee372f799d3e654891002c36d77380c48c466d2&rid=giphy.gif&ct=s" width="300"/> <br/>
+  <img src="https://github.com/slashedzer0/slashedzer0/assets/101719469/bbf2819e-68af-4aa9-9ce9-19c8f771dcd5" width="300"/> <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1240&pause=2800&color=8bd5ca&center=true&width=600&lines=Software+Engineering+student;Passionate+about+Linux+and+Web+development;Embracing+the+open+source+community;Loves+to+watch+anime+and+read+manga"/> <br/>
+	
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="2" width="8px" />
   <a href="https://github.com/slashedzer0">
     <img src="https://img.shields.io/endpoint?label=profile%20views&style=social&url=https%3A%2F%2Fhits.dwyl.com%2Fslashedzer0%2Fslashedzer0.json" alt="calculation based on page hits, not 100% accurate." />
   </a>
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="2" width="2px" />
   <a href="https://wakatime.com/@doniwicaksono" target="_blank">
     <img src="https://wakatime-hours-psi.vercel.app/api/badge?style=social&label=code+time" alt="time spent on coding since december 2022." />
   </a>
@@ -45,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" height="3px" width="762px" /> <br> <br/>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" height="3px" width="760px" /> <br> <br/>
 	
   <a href="mailto:doniwicaksonox@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
