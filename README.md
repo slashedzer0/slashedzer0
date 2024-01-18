@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/DevTools-24273a?logo=googlechrome&logoColor=aecbfa&style=for-the-badge" />
   <!-- <img src="https://img.shields.io/badge/IDEA-24273a?logo=intellijidea&logoColor=fff&style=for-the-badge"/> -->
   <img src="https://img.shields.io/badge/Figma-24273a?logo=figma&logoColor=FF4F8B&style=for-the-badge" alt="Figma Badge">
+  <img src="https://custom-icon-badges.demolab.com/badge/balsamiq-24273a.svg?logo=balsamiq-hd&style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-24273a?logo=git&logoColor=F05032&style=for-the-badge"/> <br/>
 	
   <!-- <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C"/> -->
