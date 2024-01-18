@@ -12,7 +12,7 @@
 </h3> <br/>
 
 <h3 align="center"> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" height="20" /> Tech & Tools
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" height="20" /> Technologies
 </h3>
   
 <div align="center">
@@ -40,7 +40,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="20" height="20" /> My Stats
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="20" height="20" /> GitHub Stats
 </h3>
 
 <div align="center">
