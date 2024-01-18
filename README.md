@@ -19,18 +19,20 @@
   <img src="https://img.shields.io/badge/Linux-24273a?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <!-- <img src="https://img.shields.io/badge/WSL-24273a?logo=windows&logoColor=fff&style=for-the-badge"/> -->
   <img src="https://img.shields.io/badge/VS%20Code-24273a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
+  <img src="https://img.shields.io/badge/DevTools-24273a?logo=googlechrome&logoColor=aecbfa&style=for-the-badge" />
   <!-- <img src="https://img.shields.io/badge/IDEA-24273a?logo=intellijidea&logoColor=fff&style=for-the-badge"/> -->
   <img src="https://img.shields.io/badge/Figma-24273a?logo=figma&logoColor=FF4F8B&style=for-the-badge" alt="Figma Badge">
   <img src="https://img.shields.io/badge/Git-24273a?logo=git&logoColor=F05032&style=for-the-badge"/> <br/>
 	
   <!-- <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C"/> -->
   <img src="https://img.shields.io/badge/JavaScript-24273a?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/html-%2324273a.svg?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/css-%2324273a.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <!-- <img src="https://img.shields.io/badge/bootstrap-24273a?logo=bootstrap&logoColor=712cf9&style=for-the-badge"> -->
+  <img src="https://img.shields.io/badge/bootstrap-24273a?logo=bootstrap&logoColor=712cf9&style=for-the-badge">
   <!-- <img src="https://img.shields.io/badge/tailwind-24273a?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" alt="Tailwind CSS Badge"> -->
   <!-- <img src="https://custom-icon-badges.demolab.com/badge/SQL-24273a.svg?style=for-the-badge&logo=database&logoColor=fea314"/> -->
-  <!-- <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=3776AB"/> -->
+  <img src="https://img.shields.io/badge/flask-24273a?logo=flask&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/json-24273a?logo=json&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/bash-24273a?logo=gnu-bash&logoColor=fff&style=for-the-badge"/> <br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px" />
@@ -41,8 +43,8 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-rho-beige.vercel.app/api?username=slashedzer0&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_icons=true&hide_border=true&hide_title=true&include_all_commits=false&count_private=false&card_width=419&custom_title=Current%20Stats" height="150" />
-  <img src="https://streak-stats.demolab.com?user=slashedzer0&hide_border=true&background=24273a&stroke=cad3f5&ring=8bd5ca&fire=8bd5ca&currStreakNum=c6a0f6&sideNums=8bd5ca&currStreakLabel=c6a0f6&sideLabels=8bd5ca&dates=cad3f5" height="150" /> <br/>
+  <img src="https://github-readme-stats-rho-beige.vercel.app/api?username=slashedzer0&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&card_width=419&custom_title=Current%20Stats" height="150" />
+  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=slashedzer0&theme=catppuccin-macchiato&hide_border=true" height="150" /> <br/>
 </div>
 
 <div align="center">
