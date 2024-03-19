@@ -16,26 +16,10 @@
 </h3>
   
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-24273a?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <!-- <img src="https://img.shields.io/badge/WSL-24273a?logo=windows&logoColor=fff&style=for-the-badge"/> -->
-  <img src="https://img.shields.io/badge/VS%20Code-24273a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
-  <img src="https://img.shields.io/badge/DevTools-24273a?logo=googlechrome&logoColor=aecbfa&style=for-the-badge" />
-  <!-- <img src="https://img.shields.io/badge/IDEA-24273a?logo=intellijidea&logoColor=fff&style=for-the-badge"/> -->
-  <img src="https://img.shields.io/badge/Figma-24273a?logo=figma&logoColor=FF4F8B&style=for-the-badge" alt="Figma Badge">
-  <img src="https://custom-icon-badges.demolab.com/badge/balsamiq-24273a.svg?logo=balsamiq-hd&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-24273a?logo=git&logoColor=F05032&style=for-the-badge"/> <br/>
-	
-  <!-- <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C"/> -->
-  <img src="https://img.shields.io/badge/JavaScript-24273a?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/html-%2324273a.svg?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/css-%2324273a.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/bootstrap-24273a?logo=bootstrap&logoColor=712cf9&style=for-the-badge">
-  <!-- <img src="https://img.shields.io/badge/tailwind-24273a?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" alt="Tailwind CSS Badge"> -->
-  <!-- <img src="https://custom-icon-badges.demolab.com/badge/SQL-24273a.svg?style=for-the-badge&logo=database&logoColor=fea314"/> -->
-  <img src="https://img.shields.io/badge/flask-24273a?logo=flask&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/json-24273a?logo=json&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/bash-24273a?logo=gnu-bash&logoColor=fff&style=for-the-badge"/> <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,html,css,tailwind,flask,mongodb,figma,git,vscode,linux" />
+  </a>
+  <br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px" />
 </div>
 
