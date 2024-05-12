@@ -30,13 +30,20 @@
 </h3>
 -->
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slashedzer0&theme=vue-dark&hide_border=true" /> <br/>
+  <table>
+    <tr>
+      <td><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=slashedzer0&theme=vue-dark&hide_border=true" /></td>
+    </tr>
+  </table>
 </div>
 
+
 <div align="center">
+<!-- 
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" height="3px" width="990px" /> <br> <br/>
-	
+-->
+
   <a href="mailto:doniwicaksonox@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
