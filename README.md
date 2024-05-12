@@ -1,6 +1,6 @@
 <h3 align="center">
-  <img src="https://github.com/slashedzer0/slashedzer0/assets/101719469/bbf2819e-68af-4aa9-9ce9-19c8f771dcd5" width="300"/> <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1240&pause=2800&color=8bd5ca&center=true&width=600&lines=Software+Engineering+student;Passionate+about+Linux+and+Web+development;Embracing+the+open+source+community;Loves+to+watch+anime+and+read+manga"/> <br/>
+  <img src="https://github.com/slashedzer0/slashedzer0/assets/101719469/bbf2819e-68af-4aa9-9ce9-19c8f771dcd5" width="320"/> <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1240&pause=2800&color=41b883&center=true&width=600&lines=Software+Engineering+student;Passionate+about+Linux+and+Web+Development;Embracing+the+open+source+community;Loves+to+watch+anime+and+read+manga"/> <br/>
 	
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="2" width="8px" />
   <a href="https://github.com/slashedzer0">
@@ -24,18 +24,18 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px" />
 </div>
 -->
-
+<!-- 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="20" height="20" /> GitHub Stats
 </h3>
-
+-->
 <div align="center">
-  <img src="https://github-readme-stats-rho-beige.vercel.app/api?username=slashedzer0&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&card_width=419&custom_title=Current%20Stats" height="150" />
-  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=slashedzer0&theme=catppuccin-macchiato&hide_border=true" height="150" /> <br/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slashedzer0&theme=vue-dark&hide_border=true" /> <br/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" height="3px" width="760px" /> <br> <br/>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" height="3px" width="990px" /> <br> <br/>
 	
   <a href="mailto:doniwicaksonox@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
@@ -43,9 +43,6 @@
   <a href="https://discordapp.com/users/909294977698369557" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://t.me/slashedzer0" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
-  <a/>
   <a href="https://anilist.co/user/slashedzer0/" target="_blank">
     <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat/"/>
   </a>
