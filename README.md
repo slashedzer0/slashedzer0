@@ -34,7 +34,7 @@
   <table>
     <tr>
       <td><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=slashedzer0&theme=vue-dark&hide_border=true" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=slashedzer0&theme=vue-dark&hide_border=true&card_width=500" /></td>
     </tr>
   </table>
 </div>
