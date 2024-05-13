@@ -6,6 +6,7 @@
   <a href="https://github.com/slashedzer0">
     <img src="https://img.shields.io/endpoint?label=profile%20views&style=social&url=https%3A%2F%2Fhits.dwyl.com%2Fslashedzer0%2Fslashedzer0.json" alt="calculation based on page hits, not 100% accurate." />
   </a>
+   &nbsp;
   <a href="https://wakatime.com/@doniwicaksono" target="_blank">
     <img src="https://wakatime-hours-psi.vercel.app/api/badge?style=social&label=code+time" alt="time spent on coding since december 2022." />
   </a>
@@ -45,15 +46,15 @@
 -->
 
   <a href="mailto:doniwicaksonox@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-273849?style=for-the-badge&logo=gmail&logoColor=41b883"/>
   </a>
   <a href="https://discordapp.com/users/909294977698369557" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-273849?style=for-the-badge&logo=discord&logoColor=41b883"/>
   </a>
   <a href="https://anilist.co/user/slashedzer0/" target="_blank">
-    <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat/"/>
+    <img src="https://img.shields.io/badge/AniList-273849?logo=anilist&logoColor=41b883&style=for-the-badge"/>
   </a>
   <a href="https://open.spotify.com/user/ae1wyum3y57zrnujm977tn1nq" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat"/>
+    <img src="https://img.shields.io/badge/Spotify-273849?logo=spotify&logoColor=41b883&style=for-the-badge"/>
   </a> </br>
 </div>
