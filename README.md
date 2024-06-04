@@ -1,6 +1,6 @@
 <h3 align="center">
   <img src="https://github.com/slashedzer0/slashedzer0/assets/101719469/bbf2819e-68af-4aa9-9ce9-19c8f771dcd5" width="320"/> <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1240&pause=2800&color=41b883&center=true&width=600&lines=Software+Engineering+student;Passionate+about+Linux+and+Web+Development;Embracing+the+open+source+community;Loves+to+watch+anime+and+read+manga"/> <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1240&pause=2800&color=b54a41&center=true&width=600&lines=Software+Engineering+student;Passionate+about+Linux+and+Web+Development;Embracing+the+open+source+community;Loves+to+watch+anime+and+read+manga"/> <br/>
 	
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="2" width="8px" />
   <a href="https://github.com/slashedzer0">
@@ -33,8 +33,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=slashedzer0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=slashedzer0&theme=vue-dark&hide_border=true&card_width=500" /></td>
+      <td><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=slashedzer0&show_icons=true&hide_border=true&count_private=true&title_color=b54a41&text_color=f2f2f2&icon_color=b54a41&bg_color=212121" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=slashedzer0&hide_border=true&card_width=500&background=212121&stroke=f2f2f2&ring=b54a41&fire=b54a41&currStreakNum=f2f2f2&sideNums=b54a41&currStreakLabel=b54a41&sideLabels=b54a41&dates=f2f2f2" /></td>
     </tr>
   </table>
 </div>
@@ -46,15 +46,15 @@
 -->
 
   <a href="mailto:doniwicaksonox@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-273849?style=for-the-badge&logo=gmail&logoColor=41b883"/>
+    <img src="https://img.shields.io/badge/Gmail-212121?style=for-the-badge&logo=gmail&logoColor=b54a41"/>
   </a>
   <a href="https://discordapp.com/users/909294977698369557" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-273849?style=for-the-badge&logo=discord&logoColor=41b883"/>
+    <img src="https://img.shields.io/badge/Discord-212121?style=for-the-badge&logo=discord&logoColor=b54a41"/>
   </a>
   <a href="https://anilist.co/user/slashedzer0/" target="_blank">
-    <img src="https://img.shields.io/badge/AniList-273849?logo=anilist&logoColor=41b883&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/AniList-212121?logo=anilist&logoColor=b54a41&style=for-the-badge"/>
   </a>
   <a href="https://open.spotify.com/user/ae1wyum3y57zrnujm977tn1nq" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-273849?logo=spotify&logoColor=41b883&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Spotify-212121?logo=spotify&logoColor=b54a41&style=for-the-badge"/>
   </a> </br>
 </div>
