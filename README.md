@@ -45,6 +45,7 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" height="3px" width="990px" /> <br> <br/>
 -->
 
+<!-- 
   <a href="mailto:doniwicaksonox@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-212121?style=for-the-badge&logo=gmail&logoColor=d22601"/>
   </a>
@@ -57,4 +58,5 @@
   <a href="https://open.spotify.com/user/ae1wyum3y57zrnujm977tn1nq" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-212121?logo=spotify&logoColor=d22601&style=for-the-badge"/>
   </a> </br>
+-->
 </div>
